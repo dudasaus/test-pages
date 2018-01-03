@@ -1,5 +1,7 @@
-@import "{{ site.theme }}";
+---
+---
 
+@import "{{ site.theme }}";
 .pager-header {
   background-color: #991540;
   background-image: linear-gradient(120deg, #991540, #b5b008);
